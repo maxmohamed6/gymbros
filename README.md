@@ -4,6 +4,8 @@ Desenvolvimento de um app para acompanhamento da alimentação diária e treinam
 
 Projeto desenvolvido em React.js por meio da plataforma Expo.dev, como parte das atividades da disciplina de Programação para Dispositivos Móveis na faculdade.
 
+Dentro do [Documento de Desenvolvimento do Projeto](https://github.com/maxmohamed6/gymbros/blob/main/Documento%20de%20desenvolvimento%20do%20Projeto%20GYM%20BRO%E2%80%99S.pdf) possui o mockup da ideia.
+
 ## Ideia inicial de identidade visual:
 Um app moderno, simples e de fácil entendimento que entregue o que promete, o visual tem um tema escuro com cores cinzas/pretas/brancas, com poucas “coisas” na tela, ideia minimalista de design.
 
